@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2024-01-31T20:47:31.694Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="qdZ8xhAyh31ZF3e1vhVy" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-05T13:27:42.279Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="jZEu3Vv755xpZiR2bHG8" version="23.0.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1518" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="974" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="MqEYu88oAmSTsNmTSLMa-0" value="Non-Functional Requirements" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="MqEYu88oAmSTsNmTSLMa-0" value="Non-Functional Requirements" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="354" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MqEYu88oAmSTsNmTSLMa-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="MqEYu88oAmSTsNmTSLMa-1" value="" style="endArrow=none;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="414" y="160" as="sourcePoint" />
             <mxPoint x="414" y="60" as="targetPoint" />
@@ -16,16 +16,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MqEYu88oAmSTsNmTSLMa-2" value="Organizational Requirements" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="MqEYu88oAmSTsNmTSLMa-2" value="Organizational Requirements" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="360" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MqEYu88oAmSTsNmTSLMa-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="MqEYu88oAmSTsNmTSLMa-4" value="" style="endArrow=none;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="120" as="sourcePoint" />
             <mxPoint x="680" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MqEYu88oAmSTsNmTSLMa-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MqEYu88oAmSTsNmTSLMa-6" target="MqEYu88oAmSTsNmTSLMa-17">
+        <mxCell id="MqEYu88oAmSTsNmTSLMa-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MqEYu88oAmSTsNmTSLMa-6" target="MqEYu88oAmSTsNmTSLMa-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="80" y="270" />
@@ -34,7 +34,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MqEYu88oAmSTsNmTSLMa-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MqEYu88oAmSTsNmTSLMa-6" target="MqEYu88oAmSTsNmTSLMa-20">
+        <mxCell id="MqEYu88oAmSTsNmTSLMa-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MqEYu88oAmSTsNmTSLMa-6" target="MqEYu88oAmSTsNmTSLMa-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="110" y="260" />
@@ -44,7 +44,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MqEYu88oAmSTsNmTSLMa-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="MqEYu88oAmSTsNmTSLMa-24">
+        <mxCell id="MqEYu88oAmSTsNmTSLMa-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="MqEYu88oAmSTsNmTSLMa-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="210" as="sourcePoint" />
             <mxPoint x="200" y="770" as="targetPoint" />
@@ -55,39 +55,73 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MqEYu88oAmSTsNmTSLMa-6" value="Product Requirements" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="MqEYu88oAmSTsNmTSLMa-6" value="Product Requirements" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="20" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MqEYu88oAmSTsNmTSLMa-8" value="Usability" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="MqEYu88oAmSTsNmTSLMa-8" value="Usability" style="swimlane;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry y="280" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="MqEYu88oAmSTsNmTSLMa-13" value="-The application is compatible with a variety of devices and screen sizes.&lt;br&gt;-User interactions and navigations are intuitive, requiring minimal training for new users." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MqEYu88oAmSTsNmTSLMa-8">
+        <mxCell id="MqEYu88oAmSTsNmTSLMa-13" value="-The application is compatible with a variety of devices and screen sizes.&lt;br&gt;-User interactions and navigations are intuitive, requiring minimal training for new users." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="MqEYu88oAmSTsNmTSLMa-8" vertex="1">
           <mxGeometry y="40" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MqEYu88oAmSTsNmTSLMa-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MqEYu88oAmSTsNmTSLMa-8" target="MqEYu88oAmSTsNmTSLMa-6">
+        <mxCell id="MqEYu88oAmSTsNmTSLMa-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="MqEYu88oAmSTsNmTSLMa-8" target="MqEYu88oAmSTsNmTSLMa-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="420" as="sourcePoint" />
             <mxPoint x="210" y="370" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MqEYu88oAmSTsNmTSLMa-17" value="Reliability" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="MqEYu88oAmSTsNmTSLMa-17" value="Reliability" style="swimlane;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry y="414" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="MqEYu88oAmSTsNmTSLMa-18" value="-The application handles intermittent network connectivity without data loss.&lt;br&gt;-In case of client-side application, the application stores and synchronizes data when offline." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MqEYu88oAmSTsNmTSLMa-17">
+        <mxCell id="MqEYu88oAmSTsNmTSLMa-18" value="-The application handles intermittent network connectivity without data loss.&lt;br&gt;-In case of client-side application, the application stores and synchronizes data when offline." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="MqEYu88oAmSTsNmTSLMa-17" vertex="1">
           <mxGeometry y="20" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="MqEYu88oAmSTsNmTSLMa-20" value="Data Backup &amp;amp; Recovery" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="MqEYu88oAmSTsNmTSLMa-20" value="Data Backup &amp;amp; Recovery" style="swimlane;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry y="570" width="200" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="MqEYu88oAmSTsNmTSLMa-21" value="-Regular automated backups for user data.&lt;br&gt;-Reliable data recovery plan is put in place to restore the system in case of data loss." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MqEYu88oAmSTsNmTSLMa-20">
+        <mxCell id="MqEYu88oAmSTsNmTSLMa-21" value="-Regular automated backups for user data.&lt;br&gt;-Reliable data recovery plan is put in place to restore the system in case of data loss." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="MqEYu88oAmSTsNmTSLMa-20" vertex="1">
           <mxGeometry y="20" width="200" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="MqEYu88oAmSTsNmTSLMa-24" value="Maintainability" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="MqEYu88oAmSTsNmTSLMa-24" value="Maintainability" style="swimlane;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry y="720" width="200" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="MqEYu88oAmSTsNmTSLMa-25" value="-Code is well-documented for easy maintenance and updates.&lt;br&gt;-The development team follows coding standards and best practices." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MqEYu88oAmSTsNmTSLMa-24">
+        <mxCell id="MqEYu88oAmSTsNmTSLMa-25" value="-Code is well-documented for easy maintenance and updates.&lt;br&gt;-The development team follows coding standards and best practices." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="MqEYu88oAmSTsNmTSLMa-24" vertex="1">
           <mxGeometry y="20" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6EKw5CpSdEsnnjUU2thP-0" value="Develop Team Expertise" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="314" y="280" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6EKw5CpSdEsnnjUU2thP-1" value="-Continuous training is implemented to keep the team at par with the latest tech and advancements in the fitness industry." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="6EKw5CpSdEsnnjUU2thP-0">
+          <mxGeometry y="20" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6EKw5CpSdEsnnjUU2thP-3" value="User Support and Training" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="420" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6EKw5CpSdEsnnjUU2thP-4" value="-Support teams are available to address user queries, and issues promptly.&lt;br&gt;-Training materials; tutorials &amp;amp; FAQs, are available to maximize the application&#39;s benefits." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="6EKw5CpSdEsnnjUU2thP-3">
+          <mxGeometry y="20" width="200" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="6EKw5CpSdEsnnjUU2thP-5" value="Security Training" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="570" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6EKw5CpSdEsnnjUU2thP-9" value="-Consistent security training is provided for the team development to enhance awareness of potential security risks." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="6EKw5CpSdEsnnjUU2thP-5">
+          <mxGeometry y="20" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6EKw5CpSdEsnnjUU2thP-10" value="Budget &amp;amp; Resource Management" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="720" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6EKw5CpSdEsnnjUU2thP-13" value="-Sufficient budget and resources are allocated for ongoing development, maintenance, and support for the application." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="6EKw5CpSdEsnnjUU2thP-10">
+          <mxGeometry y="20" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6EKw5CpSdEsnnjUU2thP-14" value="" style="endArrow=none;html=1;rounded=0;entryX=0.432;entryY=1.02;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6EKw5CpSdEsnnjUU2thP-0" target="MqEYu88oAmSTsNmTSLMa-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="290" as="sourcePoint" />
+            <mxPoint x="420" y="240" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6EKw5CpSdEsnnjUU2thP-15" value="External Requirements" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="690" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
