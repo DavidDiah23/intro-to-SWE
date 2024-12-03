@@ -1,2 +1,0 @@
-# intro-to-SWE
-ClassTask
